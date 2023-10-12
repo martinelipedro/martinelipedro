@@ -4,5 +4,3 @@
 - Currently learning **osdev and compiler theory**
 - Currently working on [real](https://github.com/martinelipedro/real)
 - Coding since 2017
-
-- 📫 How to reach me **martinelipedro@gmail.com**
