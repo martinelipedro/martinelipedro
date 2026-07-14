@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pedro Martineli</h1>
-<h3 align="center">A low-level enthusiast and Fullstack Developer from São Paulo</h3>
+<h3 align="center">A 18 year old low-level enthusiast and Fullstack Developer from São Paulo</h3>
 
 <h2>Linkedin: https://www.linkedin.com/in/martinelipedro/</h2>
 
